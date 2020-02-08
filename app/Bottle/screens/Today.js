@@ -1,12 +1,16 @@
-import React from 'react';
-import { ScrollView, StyleSheet } from 'react-native';
-import { ExpoLinksView } from '@expo/samples';
+import React, { Component } from 'react';
+import { ExpoConfigView } from '@expo/samples';
+import {View, StyleSheet, Text} from "react-native";
 
-export default function Today() {
-  return (
-    <ScrollView style={styles.container}>
-    </ScrollView>
-  );
+
+export default class Today extends Component<{}>{
+  render() {
+    return (
+        <View style={styles.container}>
+          <Text>Hello</Text>
+        </View>
+    );
+  }
 }
 
 Today.navigationOptions = {

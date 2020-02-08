@@ -1,25 +1,16 @@
-import React from 'react';
-import { ExpoConfigView } from '@expo/samples';
-import {ScrollView, StyleSheet} from "react-native";
 import React, { Component } from 'react';
-import {
-  Platform,
-  StyleSheet,
-  Text,
-  View,
-  Button,
-  FlatList,
-  Switch
-} from 'react-native';
+import { ExpoConfigView } from '@expo/samples';
+import {View, StyleSheet, Text} from "react-native";
 
-import BluetoothSerial from 'react-native-bluetooth-serial'
 
-export default function Me() {
-
-  return (
-      <ScrollView style={styles.container}>
-      </ScrollView>
-  );
+export default class Me extends Component<{}>{
+  render() {
+    return (
+        <View style={styles.container}>
+          <Text>Hello</Text>
+        </View>
+    );
+  }
 }
 
 Me.navigationOptions = {

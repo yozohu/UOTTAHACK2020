@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81e00b1e-bf0a-4b4a-a15b-577ae2732804" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/screens/Me.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/Stats.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navigation/MainTabNavigator.js" beforeDir="false" afterPath="$PROJECT_DIR$/navigation/MainTabNavigator.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screens/HomeScreen.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screens/LinksScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Today.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screens/SettingsScreen.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Me.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Me.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Stats.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Stats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Today.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Today.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +15,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1XVclqsvPQYKNiCxVLeB43DnIYj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -52,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581134855852</updated>
-      <workItem from="1581134859398" duration="8755000" />
+      <workItem from="1581134859398" duration="9975000" />
     </task>
     <servers />
   </component>
